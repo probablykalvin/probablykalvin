@@ -1,4 +1,4 @@
-![Discord](https://discord.c99.nl/widget/theme-5/810466980045520916.png)
+![Discord](https://discord.c99.nl/widget/theme-1/810466980045520916.png)
 
 - 👋 Hi, I’m @probablykalvin
 - 👀 I’m interested in Discord bot development
