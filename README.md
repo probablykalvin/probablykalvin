@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/probablykalvin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/probablykalvin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@probablykalvin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kaaaaal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzkalvin69@gmail.com)
-# Discord
+## 🟦 Discord
 ![Discord](https://discord.c99.nl/widget/theme-1/810466980045520916.png)
 
 # 💻 Tech Stack:
